@@ -12,6 +12,8 @@ h2{
     padding-top: 5px;
     padding-right: 25px;
     padding-bottom: 5px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
 }
 .col2{
     background-color: rgb(17, 141, 152);
@@ -26,6 +28,8 @@ h2{
     padding-top: 5px;
     padding-right: 25px;
     padding-bottom: 5px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
 }
 button{
     border: none;
